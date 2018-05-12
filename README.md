@@ -1,2 +1,2 @@
 # BehavioralCloning
-Program for car to learn how to drive using correct driving data
+Program to teach a car to drive by feeding a neural network data on correct driving. 
